@@ -2,7 +2,7 @@
 #include <cstring>
 using namespace std;
 
-#define ll long long;
+#define ll long long
 
 const int maxN=500;
 int a[maxN], n;
