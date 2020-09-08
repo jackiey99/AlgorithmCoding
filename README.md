@@ -8,3 +8,6 @@ I list some of the interesting and/or challenging problems as follows.
 
 ## Dynamic programming
 * [codeforces 1324F maximum white subtree](https://codeforces.com/contest/1324/problem/F)\[[Solution](codeforces/1324F_maximum_white_subtree.cpp)\]: dp on tree with a special technique called rerooting
+
+## Trees
+* [codeforces 1328E tree queries](https://codeforces.com/contest/1328/problem/E)\[[Solution](codeforces/1328E_tree_queries.cpp)\]: application of lca. Learn a useful technique for lca, i.e., binary lifting, which is efficient for multiple lca queries.
