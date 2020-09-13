@@ -11,3 +11,6 @@ I list some of the interesting and/or challenging problems as follows.
 
 ## Trees
 * [codeforces 1328E tree queries](https://codeforces.com/contest/1328/problem/E)\[[Solution](codeforces/1328E_tree_queries.cpp)\]: application of lca. Learn a useful technique for lca, i.e., binary lifting, which is efficient for multiple lca queries.
+
+## Two Pointers
+* [Leetcode 1574 Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/contest/biweekly-contest-34/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)\[[Solution](leetcode/1574_shortest_subarray_to_be_removed_to_make_array_sorted.cpp)\]: interesting two pointer problem
