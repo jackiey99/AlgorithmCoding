@@ -14,3 +14,7 @@ I list some of the interesting and/or challenging problems as follows.
 
 ## Two Pointers
 * [Leetcode 1574 Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/contest/biweekly-contest-34/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)\[[Solution](leetcode/1574_shortest_subarray_to_be_removed_to_make_array_sorted.cpp)\]: interesting two pointer problem
+
+## Greedy
+* [Leetcode 1585 Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)\[[Solution](leetcode/1585_check_if_string_is_transformable_with_substring_sort_operations.cpp
+)\]: use the bubble sort idea
