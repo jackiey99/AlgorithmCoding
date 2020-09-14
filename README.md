@@ -18,3 +18,7 @@ I list some of the interesting and/or challenging problems as follows.
 ## Greedy
 * [Leetcode 1585 Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)\[[Solution](leetcode/1585_check_if_string_is_transformable_with_substring_sort_operations.cpp
 )\]: use the bubble sort idea
+
+* [codeforces 1187D Subarray Sorting](https://codeforces.com/contest/1187/problem/D)\[[Solution](codeforces/1187D_subarray_sorting.cpp
+)\]: use BIT to query/update the left boundary of each element
+
