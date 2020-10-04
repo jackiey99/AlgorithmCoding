@@ -23,3 +23,7 @@ I list some of the interesting and/or challenging problems as follows.
 * [codeforces 1187D Subarray Sorting](https://codeforces.com/contest/1187/problem/D)\[[Solution](codeforces/1187D_subarray_sorting.cpp
 )\]: use BIT to query/update the left boundary of each element
 
+
+## Heap
+* [Leetcode 1606. Find Servers That Handled Most Number of Requests
+](https://leetcode.com/contest/biweekly-contest-36/problems/find-servers-that-handled-most-number-of-requests/)\[[Solution](leetcode/1606_find_servers_that_handled_most_number_of_requests.cpp)\]: use ordered set to maintain the list of free servers and use priority queue to maintain the list of busy servers
