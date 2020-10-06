@@ -25,5 +25,8 @@ I list some of the interesting and/or challenging problems as follows.
 
 
 ## Heap
-* [Leetcode 1606. Find Servers That Handled Most Number of Requests
-](https://leetcode.com/contest/biweekly-contest-36/problems/find-servers-that-handled-most-number-of-requests/)\[[Solution](leetcode/1606_find_servers_that_handled_most_number_of_requests.cpp)\]: use ordered set to maintain the list of free servers and use priority queue to maintain the list of busy servers
+* [Leetcode 1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/contest/biweekly-contest-36/problems/find-servers-that-handled-most-number-of-requests/)\[[Solution](leetcode/1606_find_servers_that_handled_most_number_of_requests.cpp)\]: use ordered set to maintain the list of free servers and use priority queue to maintain the list of busy servers
+
+## Recursion
+* [Leetcode 1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero//)\[[Solution](leetcode/1611_minimum_one_bit_operations_to_make_ingeters_zero.py)\]: find patterns of recursion. Another solution is to realize that this to find the order of the number in the gray code sequence
+
