@@ -29,4 +29,4 @@ I list some of the interesting and/or challenging problems as follows.
 
 ## Recursion
 * [Leetcode 1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero//)\[[Solution](leetcode/1611_minimum_one_bit_operations_to_make_ingeters_zero.py)\]: find patterns of recursion. Another solution is to realize that this to find the order of the number in the gray code sequence
-
+* [Leetcode 297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)\[[Solution](leetcode/297_serialize_and_deserialize_binary_tree.py)\]: besides bfs, pre-order traversal can also be used to serialize/deserialize binary tree in a recursive fashion. Be sure to know both approaches.
