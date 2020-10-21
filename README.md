@@ -9,6 +9,8 @@ I list some of the interesting and/or challenging problems as follows.
 ## Dynamic programming
 * [codeforces 1324F maximum white subtree](https://codeforces.com/contest/1324/problem/F)\[[Solution](codeforces/1324F_maximum_white_subtree.cpp)\]: dp on tree with a special technique called rerooting
 
+* [Leetcode 730. Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)\[[Solution](leetcode/730_count_different_palindromic_subsequences.py)\]: dp on the interval of a string
+
 ## Trees
 * [codeforces 1328E tree queries](https://codeforces.com/contest/1328/problem/E)\[[Solution](codeforces/1328E_tree_queries.cpp)\]: application of lca. Learn a useful technique for lca, i.e., binary lifting, which is efficient for multiple lca queries.
 
